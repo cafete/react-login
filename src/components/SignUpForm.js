@@ -44,6 +44,7 @@ class SignUpForm extends Component {
               className="FormField__Input"
               placeholder="Enter your full name"
               name="user"
+              required
             />
           </div>
 
@@ -59,6 +60,7 @@ class SignUpForm extends Component {
               className="FormField__Input"
               placeholder="Enter your password"
               name="password"
+              required
             />
           </div>
 
@@ -74,6 +76,7 @@ class SignUpForm extends Component {
               className="FormField__Input"
               placeholder="Enter your email"
               name="email"
+              required
             />
           </div>
 
@@ -85,6 +88,7 @@ class SignUpForm extends Component {
                 className="FormField__Checkbox"
                 type="checkbox"
                 name="hasAgreed"
+                required
               />{" "}
               I agree all statements in
               <a className="FormField__TermsLink" href="# ">

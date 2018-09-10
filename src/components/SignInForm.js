@@ -42,6 +42,7 @@ class SignInForm extends Component {
               className="FormField__Input"
               placeholder="Enter your email"
               name="user"
+              required
             />
           </div>
 
@@ -57,6 +58,7 @@ class SignInForm extends Component {
               className="FormField__Input"
               placeholder="Enter your password"
               name="password"
+              required
             />
           </div>
 

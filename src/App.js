@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
 import SignUpForm from "./components/SignUpForm";
 import SignInForm from "./components/SignInForm";
-import "./App.css";
+import "./App.scss";
 import { connect } from "react-redux";
 import { userSignUpRequest } from "./actions/SignUpActions";
 import { userSignInRequest } from "./actions/SignInActions";
