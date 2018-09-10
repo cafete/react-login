@@ -2,7 +2,7 @@
 
 This app is a Qempo Challenge to be considered part of my application to Qempo, a Lima based company.
 
-###Quempo Challenge Description
+### Quempo Challenge Description
 - Time span: 2 weeks
 - Mandatory features:
   - ReactJS login page
@@ -11,7 +11,7 @@ This app is a Qempo Challenge to be considered part of my application to Qempo, 
   -Responsive design & use of LESS/SASS/STYLUS
   -custom webpack config
 
-###Initial skill level
+### Initial skill level
 - HTML5: proficient
 - CSS3: competent
 - SASS: basic
@@ -21,7 +21,7 @@ This app is a Qempo Challenge to be considered part of my application to Qempo, 
 - Redux: none
 - Webpack: none
 
-##Timeline & Resources used
+## Timeline & Resources used
 day 1 - 7: React for beginners by Mosh Hamedani https://youtu.be/Ke90Tje7VS0. 
            **hours spent**: 8
 day 8 - 12: Learn Redux by Wes Bos https://learnredux.com/
