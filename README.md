@@ -1,15 +1,16 @@
 # react-login
 
-This app is a Qempo Challenge to be considered part of my application to Qempo, a Lima based company.
+This login page app is the result of my first two weeks learning ReactJS. 
 
-### Quempo Challenge Description
+### App Description
 - Time span: 2 weeks
-- Mandatory features:
+- Main feature:
   - ReactJS login page
-- Bonus features:
+- Additional features:
   - Redux request
-  - Responsive design & use of LESS/SASS/STYLUS
-  - custom webpack config
+  - Responsive design
+  - SASS added using webpack config
+- Total hours spent: 36
 
 ### Initial skill level
 - HTML5: proficient
@@ -35,4 +36,6 @@ This app is a Qempo Challenge to be considered part of my application to Qempo, 
   - UI and react-router navigation: https://youtu.be/56E8b9prPTs
   - redux-thunk ajax request: https://youtu.be/SX5HkOP-LWs
   - **hours spent**: 8
-           
+- Additional 2 days:
+  - Deploying app to Heroku
+  - **hours spent**: 6
